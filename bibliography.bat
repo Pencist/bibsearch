@@ -1,0 +1,3 @@
+@echo off
+python "D:\Èí¼þ\visual studio\database\exe.py" %input%
+pause
